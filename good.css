@@ -1,0 +1,17 @@
+
+
+
+p{
+    color: red;
+    background-color: black;
+    font: outline; }
+section{
+list-style-image: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1072753294%2F960x0.jpg%3Ffit%3Dscale);
+    background-repeat: no-repeat;
+background-size: cover;
+z-index: -1;
+    height:100%;
+    width: 100%;
+    text-align: top left;
+   
+}
